@@ -1,6 +1,6 @@
 # pocket_weather_provider
 
-A new Flutter project.
+A new Flutter project that utilizes 'Provider' architect
 
 ## Getting Started
 
